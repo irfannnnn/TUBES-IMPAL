@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IMPAL_AB</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maine">MaineActivity</string>
+    <string name="title_activity_belanja">Belanja</string>
+    <string name="title_activity_shopping">shopping</string>
+    <string name="title_activity_managemenu">Managemenu</string>
+    <string name="title_activity_kembalianpp">Kembalianpp</string>
+    <string name="title_activity_transaksilist">Transaksilist</string>
+</resources>

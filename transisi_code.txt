@@ -1,0 +1,22 @@
+public class <class source> extends AppCompatActivity {
+	private Button <idButton>;
+	
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.<xml source>)
+		
+		<idButton> = (Button) findViewById(R.id.<idButton>);
+		button.setOnClickListener(new View.OnClickListener(){
+			@Override
+			public void onClick(View v){
+				openActivity();
+			}
+		});
+	}
+	
+	public void openActivity(){
+		Intent intent = new Intent(this, <class dest>.class);
+		startActivity(intent);
+	}
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+     <group android:checkableBehavior="single">
+         <item android:id="@+id/home"
+             android:icon="@drawable/home"
+             android:title="Home"
+             />
+         <item android:id="@+id/Note"
+             android:icon="@drawable/ic_event_note2"
+             android:title="Riwayat Transaksi"
+             />
+         <item android:id="@+id/Managemenu"
+             android:icon="@drawable/manage"
+             android:title="Manage Menu"
+             />
+         <item android:id="@+id/register"
+             android:icon="@drawable/add_emp"
+             android:title="Manage Akun"
+             />
+         <item android:id="@+id/logout"
+             android:icon="@drawable/logout"
+             android:title="Log Out"
+             />
+     </group>
+
+</menu>
